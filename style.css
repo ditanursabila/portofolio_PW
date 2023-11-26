@@ -1,0 +1,10 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(255, 88, 88, 0.628);
+}
+#project {
+  background-color: rgba(255, 88, 88, 0.628);
+}
+section {
+  padding-top: 5rem;
+}
